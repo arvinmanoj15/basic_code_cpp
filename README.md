@@ -7,5 +7,5 @@ Datatypes,
 Operators,
 Conditional Statements,
 Loops,
-Functions
+Functions,
 String
