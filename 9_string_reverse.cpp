@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+//WAP to reverse a string
+
 int main( )
 {
 	char str[50],temp;
@@ -19,4 +21,3 @@ int main( )
 	cout<<"Reverse string: "<<str<<endl;
 	return 0;
 }
-
