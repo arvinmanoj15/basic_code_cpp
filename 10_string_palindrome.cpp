@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+//WAP to check whether input string is Palindrome
+
 int main( )
 {
 	char str[50];
