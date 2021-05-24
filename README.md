@@ -8,3 +8,4 @@ Operators,
 Conditional Statements,
 Loops,
 Functions
+String
